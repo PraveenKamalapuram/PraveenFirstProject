@@ -10,7 +10,8 @@ public class NewTest {
 	
 	public WebDriver driver;
 	
-	// this is test for GitHUb
+	// this is test for GitHUb 
+	// This is a test for Jenkins Build
 	  @Test
 	  public void openMyFBPage() {
 		driver.get("https://www.facebook.com/");
