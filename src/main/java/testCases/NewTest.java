@@ -10,6 +10,7 @@ public class NewTest {
 	
 	public WebDriver driver;
 	
+	// this is test for GitHUb
 	  @Test
 	  public void openMyFBPage() {
 		driver.get("https://www.facebook.com/");
